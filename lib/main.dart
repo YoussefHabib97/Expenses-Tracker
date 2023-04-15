@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-// Package imports
-// ignore: unnecessary_import
-import 'package:flutter/services.dart';
 
 // Screen imports
 import 'package:expenses_tracker/screens/expenses_screen.dart';
