@@ -64,9 +64,9 @@ class _NewExpenseState extends State<NewExpense> {
               fontSize: 16,
             ),
           ),
-          content: Column(
+          content: const Column(
             mainAxisSize: MainAxisSize.min,
-            children: const [
+            children: [
               Text(
                 "Invalid Input!",
                 textAlign: TextAlign.center,
